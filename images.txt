@@ -4,7 +4,8 @@
 #xiaoyaliu/alist:latest
 #yidadaa/chatgpt-next-web:latest
 #xprobe/xinference:v0.12.3
-#支持指定架构
+#支持指定架构 linux/aarch64
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform linux/aarch64 python:3.10.14-slim-bullseye
---platform linux/aarch64 python:3.11.9-slim-bullseye
+#--platform linux/aarch64 python:3.11.9-slim-bullseye
+--platform linux/aarch64 python:3.10.14-slim
