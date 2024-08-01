@@ -1,9 +1,11 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-xiaoyaliu/alist:latest
-yidadaa/chatgpt-next-web:latest
-ollama/ollama:latest
+#xhofe/alist:latest
+#xiaoyaliu/alist:latest
+#yidadaa/chatgpt-next-web:latest
+ollama/ollama:0.3.2
+chat2db/chat2db:3.2.4
+isafetech/chatchat:0.2.10
 #xprobe/xinference:v0.12.3
 
 #支持指定架构 linux/aarch64
