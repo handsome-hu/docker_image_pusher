@@ -3,8 +3,9 @@
 #xhofe/alist:latest
 #xiaoyaliu/alist:latest
 #yidadaa/chatgpt-next-web:latest
-ollama/ollama:0.3.2
-chat2db/chat2db:3.2.4
+#ollama/ollama:0.3.2
+#chat2db/chat2db:3.2.4
+justsong/one-api:latest
 #xprobe/xinference:v0.12.3
 
 #支持指定架构 linux/aarch64
