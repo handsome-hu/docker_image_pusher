@@ -7,10 +7,11 @@
 #chat2db/chat2db:3.2.4
 #justsong/one-api:latest
 #xprobe/xinference:v0.12.3
+1panel/maxkb:v1.4.1
 
 #支持指定架构 linux/aarch64
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform linux/aarch64 python:3.10.14-slim-bullseye
 #--platform linux/aarch64 python:3.11.9-slim-bullseye
 #--platform linux/aarch64 python:3.10.14-slim
---platform linux/aarch64 python:3.10
+#--platform linux/aarch64 python:3.10
