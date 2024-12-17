@@ -18,7 +18,7 @@ ghcr.io/anduin2017/how-to-cook:latest
 #node:18-alpine
 #nginx:latest
 #louislam/dockge:1
-savatar101/omniparse:0.1
+woodylee1974/omniparse:latest
 
 #支持指定架构 linux/arm64
 #--platform=linux/arm64 p3terx/aria2-pro:latest
