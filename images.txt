@@ -19,7 +19,8 @@ ghcr.io/anduin2017/how-to-cook:latest
 #nginx:latest
 #louislam/dockge:1
 #woodylee1974/omniparse:latest
-milvusdb/milvus:v2.3.5-gpu
+#milvusdb/milvus:v2.3.5-gpu
+bitnami/redis:7.4.1
 
 #支持指定架构 linux/arm64
 #--platform=linux/arm64 p3terx/aria2-pro:latest
