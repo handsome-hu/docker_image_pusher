@@ -7,7 +7,7 @@ yidadaa/chatgpt-next-web:latest
 #chat2db/chat2db:3.2.4
 justsong/one-api:latest
 ghcr.io/anduin2017/how-to-cook:latest
-#xprobe/xinference:v0.12.3
+xprobe/xinference:v0.16.3
 #1panel/maxkb:v1.4.1
 #python:3.11.10-slim-bullseye
 #python:3.11.10-bullseye
@@ -20,14 +20,7 @@ ghcr.io/anduin2017/how-to-cook:latest
 #louislam/dockge:1
 #woodylee1974/omniparse:latest
 #milvusdb/milvus:v2.3.5-gpu
-bitnami/redis:7.4.1
+#bitnami/redis:7.4.1
 
 #支持指定架构 linux/arm64
 #--platform=linux/arm64 p3terx/aria2-pro:latest
-
-#支持指定架构 linux/aarch64
-#--platform=linux/arm64 xiaoyaliu/alist
-#--platform linux/aarch64 python:3.10.14-slim-bullseye
-#--platform linux/aarch64 python:3.11.9-slim-bullseye
-#--platform linux/aarch64 python:3.10.14-slim
-#--platform linux/aarch64 python:3.10
