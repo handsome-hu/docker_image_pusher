@@ -1,13 +1,13 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-xiaoyaliu/alist:latest
-yidadaa/chatgpt-next-web:latest
+#xhofe/alist:latest
+#xiaoyaliu/alist:latest
+#yidadaa/chatgpt-next-web:latest
 #ollama/ollama:0.3.2
 #chat2db/chat2db:3.2.4
-justsong/one-api:latest
-ghcr.io/anduin2017/how-to-cook:latest
-xprobe/xinference:v0.16.3
+#justsong/one-api:latest
+#ghcr.io/anduin2017/how-to-cook:latest
+#xprobe/xinference:v0.16.3
 #1panel/maxkb:v1.4.1
 #python:3.11.10-slim-bullseye
 #python:3.11.10-bullseye
@@ -21,6 +21,7 @@ xprobe/xinference:v0.16.3
 #woodylee1974/omniparse:latest
 #milvusdb/milvus:v2.3.5-gpu
 #bitnami/redis:7.4.1
+eosphorosai/dbgpt:latest
 
 #支持指定架构 linux/arm64
 #--platform=linux/arm64 p3terx/aria2-pro:latest
