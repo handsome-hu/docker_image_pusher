@@ -24,6 +24,7 @@
 #eosphorosai/dbgpt:latest
 #ghcr.io/n8n-io/n8n:1.18.4
 #n8nio/n8n:1.82.2
-vllm/vllm-openai:v0.8.0
+#vllm/vllm-openai:v0.8.0
+milvusdb/milvus:v2.5.7-gpu
 #支持指定架构 linux/arm64
 #--platform=linux/arm64 p3terx/aria2-pro:latest
