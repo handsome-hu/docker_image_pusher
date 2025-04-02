@@ -31,4 +31,5 @@
 #qwenllm/qwen-omni:2.5-cu121
 #paddlepaddle/paddle:2.6.2-gpu-cuda12.0-cudnn8.9-trt8.6
 #nvidia/cuda:12.2.2-cudnn8-devel-centos7
-nvidia/cuda:12.2.2-cudnn8-devel-ubuntu22.04
+#nvidia/cuda:12.2.2-cudnn8-devel-ubuntu22.04
+paddlepaddle/paddle:3.0.0-gpu-cuda12.6-cudnn9.5-trt10.5
