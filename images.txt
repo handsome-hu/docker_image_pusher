@@ -34,3 +34,6 @@ justsong/one-api:v0.6.11-preview.7
 #nvidia/cuda:12.2.2-cudnn8-devel-centos7
 #nvidia/cuda:12.2.2-cudnn8-devel-ubuntu22.04
 #paddlepaddle/paddle:3.0.0-gpu-cuda12.6-cudnn9.5-trt10.5
+ghcr.io/berriai/litellm:main-stable
+postgres:16
+prom/prometheus
