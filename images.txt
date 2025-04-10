@@ -35,5 +35,4 @@
 #nvidia/cuda:12.2.2-cudnn8-devel-ubuntu22.04
 #paddlepaddle/paddle:3.0.0-gpu-cuda12.6-cudnn9.5-trt10.5
 #node:20-alpine
-vllm/vllm-openai:v0.8.3
-
+ppcelery/one-api:latest
