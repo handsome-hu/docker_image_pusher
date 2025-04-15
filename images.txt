@@ -5,6 +5,7 @@
 #yidadaa/chatgpt-next-web:latest
 #ollama/ollama:0.3.2
 ollama/ollama:latest
+assaflavie/runlike:latest
 #chat2db/chat2db:3.2.4
 #justsong/one-api:latest
 #justsong/one-api:v0.6.11-preview.7
