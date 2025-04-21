@@ -4,8 +4,8 @@
 #xiaoyaliu/alist:latest
 #yidadaa/chatgpt-next-web:latest
 #ollama/ollama:0.3.2
-ollama/ollama:latest
-assaflavie/runlike:latest
+#ollama/ollama:latest
+#assaflavie/runlike:latest
 #chat2db/chat2db:3.2.4
 #justsong/one-api:latest
 #justsong/one-api:v0.6.11-preview.7
@@ -39,3 +39,4 @@ assaflavie/runlike:latest
 #node:20-alpine
 #ppcelery/one-api:latest
 #xprobe/xinference:v1.4.1
+vllm/vllm-openai:v0.8.4
