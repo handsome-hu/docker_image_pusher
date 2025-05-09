@@ -41,4 +41,5 @@
 #xprobe/xinference:v1.4.1
 #vllm/vllm-openai:v0.8.5
 #infiniflow/ragflow:v0.18.0
-vllm/vllm-openai:v0.8.5.post1
+#vllm/vllm-openai:v0.8.5.post1
+jxxghp/moviepilot-v2:latest
