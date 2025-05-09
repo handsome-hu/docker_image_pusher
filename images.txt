@@ -42,4 +42,4 @@
 #vllm/vllm-openai:v0.8.5
 #infiniflow/ragflow:v0.18.0
 #vllm/vllm-openai:v0.8.5.post1
-jxxghp/moviepilot-v2:latest
+--platform=linux/arm64 jxxghp/moviepilot-v2:latest
