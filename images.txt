@@ -36,9 +36,11 @@
 #nvidia/cuda:12.2.2-cudnn8-devel-centos7
 #nvidia/cuda:12.2.2-cudnn8-devel-ubuntu22.04
 #paddlepaddle/paddle:3.0.0-gpu-cuda12.6-cudnn9.5-trt10.5
-node:20.19.2-alpine
+#node:20.19.2-alpine
 #ppcelery/one-api:latest
-#xprobe/xinference:v1.4.1
+#xprobe/xinference:v1.4.1#xprobe/xinference:v1.4.1
 #vllm/vllm-openai:v0.8.5
 #infiniflow/ragflow:v0.18.0
 #vllm/vllm-openai:v0.8.5.post1
+zilliz/attu:v2.5.7zilliz/attu:v2.5.7
+postgres:15.13-alpine
