@@ -42,5 +42,5 @@
 #vllm/vllm-openai:v0.8.5
 #infiniflow/ragflow:v0.18.0
 #vllm/vllm-openai:v0.8.5.post1
-zilliz/attu:v2.5.7zilliz/attu:v2.5.7
+zilliz/attu:v2.5.7
 postgres:15.13-alpine
