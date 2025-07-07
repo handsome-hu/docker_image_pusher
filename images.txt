@@ -44,4 +44,5 @@
 #vllm/vllm-openai:v0.8.5.post1
 #zilliz/attu:v2.5.7
 #postgres:15.13-alpine
-ghcr.io/astral-sh/uv:python3.13-alpine
+#ghcr.io/astral-sh/uv:python3.13-alpine
+rabbitmq:4.1.2-management
