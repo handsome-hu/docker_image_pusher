@@ -45,4 +45,4 @@
 #zilliz/attu:v2.5.7
 #postgres:15.13-alpine
 #ghcr.io/astral-sh/uv:python3.13-alpine
-jenkins/jenkins:latest
+chatdoc/ocrflux:latest
