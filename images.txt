@@ -46,5 +46,10 @@
 #postgres:15.13-alpine
 #ghcr.io/astral-sh/uv:python3.13-alpine
 #vllm/vllm-openai:v0.9.2
-oryd/kratos-selfservice-ui-node:v1.3.1
-oryd/mailslurper:latest-smtps
+docker.io/flannel/flannel:v0.25.0
+docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
+docker.io/calico/cni:v3.28.0
+docker.io/calico/node:v3.28.0
+docker.io/calico/kube-controllers:v3.28.0
+registry.k8s.io/metrics-server/metrics-server:v0.7.1	
+registry.k8s.io/ingress-nginx/controller:v1.10.0	
