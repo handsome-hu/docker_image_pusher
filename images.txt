@@ -47,6 +47,7 @@
 #ghcr.io/astral-sh/uv:python3.13-alpine
 #vllm/vllm-openai:v0.9.2
 #litellm/litellm:v1.74.15-stable
-docker.io/langfuse/langfuse-worker:3
-docker.io/langfuse/langfuse:3
-docker.io/clickhouse/clickhouse-server
+#docker.io/langfuse/langfuse-worker:3
+#docker.io/langfuse/langfuse:3
+#docker.io/clickhouse/clickhouse-server
+openlistteam/openlist:latest-ffmpeg
