@@ -51,4 +51,5 @@
 #docker.io/langfuse/langfuse:3
 #docker.io/clickhouse/clickhouse-server
 #openlistteam/openlist:latest-ffmpeg
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+langgenius/dify-api:1.9.1
+langgenius/dify-web:1.9.1
