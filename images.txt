@@ -51,5 +51,4 @@
 #docker.io/langfuse/langfuse:3
 #docker.io/clickhouse/clickhouse-server
 #openlistteam/openlist:latest-ffmpeg
-langgenius/dify-api:1.9.1
-langgenius/dify-web:1.9.1
+langgenius/dify-plugin-daemon:0.3.0-local
