@@ -51,6 +51,4 @@
 #docker.io/langfuse/langfuse:3
 #docker.io/clickhouse/clickhouse-server
 #openlistteam/openlist:latest-ffmpeg
-zilliz/attu:v2.5.12
-milvusdb/milvus:v2.5.27
-quay.io/coreos/etcd:v3.5.18
+postgres:15.17-alpine
