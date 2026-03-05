@@ -51,4 +51,4 @@
 #docker.io/langfuse/langfuse:3
 #docker.io/clickhouse/clickhouse-server
 #openlistteam/openlist:latest-ffmpeg
-calciumion/new-api:v0.11.0
+docker.litellm.ai/berriai/litellm:v1.80.5-stable
