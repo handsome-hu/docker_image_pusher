@@ -53,4 +53,4 @@
 #openlistteam/openlist:latest-ffmpeg
 #ghcr.io/czlonkowski/n8n-mcp:latest
 #nginx:1.30.4-alpine
-certbot/certbot:v5.7.0
+jc21/nginx-proxy-manager:2.15.1
