@@ -52,3 +52,4 @@
 #docker.io/clickhouse/clickhouse-server
 #openlistteam/openlist:latest-ffmpeg
 ghcr.io/czlonkowski/n8n-mcp:latest
+nginx:1.30.4-alpine
