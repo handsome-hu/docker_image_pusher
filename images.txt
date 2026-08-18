@@ -51,8 +51,8 @@
 #docker.io/langfuse/langfuse:3
 #docker.io/clickhouse/clickhouse-server
 #openlistteam/openlist:latest-ffmpeg
-#ghcr.io/czlonkowski/n8n-mcp:latest
+ghcr.io/czlonkowski/n8n-mcp:v2.69.3
 #nginx:1.30.4-alpine
 #jc21/nginx-proxy-manager:2.15.1
 #eceasy/cli-proxy-api:v7.2.120
-calciumion/new-api:v1.0.0-rc.23
+#calciumion/new-api:v1.0.0-rc.23
