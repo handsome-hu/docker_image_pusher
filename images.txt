@@ -56,3 +56,4 @@ n8nio/n8n:latest
 #jc21/nginx-proxy-manager:2.15.1
 #eceasy/cli-proxy-api:v7.2.120
 #calciumion/new-api:v1.0.0-rc.23
+python:3.14-slim
