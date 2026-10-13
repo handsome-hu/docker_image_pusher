@@ -56,4 +56,7 @@
 #jc21/nginx-proxy-manager:2.15.1
 #eceasy/cli-proxy-api:v7.2.120
 #calciumion/new-api:v1.0.0-rc.23
-nacos/nacos-server:v3.2.4
+agentmemory/memory-core:latest
+agentmemory/memory-hub:latest
+agentmemory/memory-proxy:latest
+
