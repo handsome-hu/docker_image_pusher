@@ -56,5 +56,5 @@
 #jc21/nginx-proxy-manager:2.15.1
 #eceasy/cli-proxy-api:v7.2.120
 #calciumion/new-api:v1.0.0-rc.23
-ghcr.io/wei-shaw/sub2api:0.2.17
-
+#ghcr.io/wei-shaw/sub2api:0.2.17
+mysql:8.4.11
